@@ -9,7 +9,7 @@
         height: 100%;
         text-align: center;
         white-space: nowrap;
-        margin: 0
+        margin: 0;
       }
 
       #page {
@@ -20,7 +20,7 @@
       }
 
       body:before{
-        content: ' ';
+        content: '';
         display: inline-block;
         height: 100%;
         width: 0;
