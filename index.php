@@ -45,10 +45,12 @@
       #lat,
       #long {
         width: 187px;
+        margin-bottom: 5px;
       }
 
       #address {
         text-align: left;
+        margin-bottom: 5px;
       }
 
       #address-result {
